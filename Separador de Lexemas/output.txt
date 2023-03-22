@@ -1,0 +1,10 @@
+ID x
+SYMBOL =
+ID y
+SYMBOL +
+NUM 5
+SYMBOL ;
+PR int
+ID z
+SYMBOL ;
+END $
